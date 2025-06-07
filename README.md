@@ -36,7 +36,7 @@
 RestaurantMenu/
 ├── Model/ (библиотека)
 │ ├── Core/ # Бизнес-логика
-│ └── Data/ # Сериализация
+│ └── Data/ # Сериализация и десериализация
 └── RestaurantMenu/ # WindowsForms приложение, сами формы
 ```
 
